@@ -1,0 +1,32 @@
+{
+    "Sugar": [
+        {
+            "id": "5001",
+            "type": "Glazed"
+        },
+        {
+            "id": "5002",
+            "type": "Powdered Sugar"
+        },
+        {
+            "id": "5003",
+            "type": "Sugar"
+        }
+    ],
+    "Chocolate": [
+        {
+            "id": "5004",
+            "type": "Chocolate with Sprinkles"
+        },
+        {
+            "id": "5005",
+            "type": "Chocolate"
+        }
+    ],
+    "Sirop": [
+        {
+            "id": "5006",
+            "type": "Maple"
+        }
+    ]
+}
